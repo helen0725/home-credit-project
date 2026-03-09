@@ -52,3 +52,11 @@ The data preparation script performs the following tasks:
   ```r
    train_prepared <- prepare_application_data(train, stats, bureau_agg, prev_agg, inst_agg)
    test_prepared  <- prepare_application_data(test,  stats, bureau_agg, prev_agg, inst_agg)
+
+
+
+
+
+## Model Card
+### This repository includes a model card documenting the Home Credit Default risk model. The model card summerizes model design, evaluation metrics, threshold optimization, SHAP explainability, fairness analysis, and limitations for business stakeholders.
+### The model uses an XGBoost classifer trained on the Home Credit dataset and ealuates decision thresholds based on lending profit and loss assumptions.
