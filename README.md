@@ -58,5 +58,6 @@ The data preparation script performs the following tasks:
 
 
 ## Model Card
-### This repository includes a model card documenting the Home Credit Default risk model. The model card summerizes model design, evaluation metrics, threshold optimization, SHAP explainability, fairness analysis, and limitations for business stakeholders.
-### The model uses an XGBoost classifer trained on the Home Credit dataset and ealuates decision thresholds based on lending profit and loss assumptions.
+This repository includes a model card documenting the Home Credit Default risk model.
+The model card summerizes model design, evaluation metrics, threshold optimization, SHAP explainability, fairness analysis, and limitations for business stakeholders.
+The model uses an XGBoost classifer trained on the Home Credit dataset and ealuates decision thresholds based on lending profit and loss assumptions.
