@@ -54,7 +54,7 @@ The data preparation script performs the following tasks:
    test_prepared  <- prepare_application_data(test,  stats, bureau_agg, prev_agg, inst_agg)
 
 
-
+---
 
 
 ## Model Card
